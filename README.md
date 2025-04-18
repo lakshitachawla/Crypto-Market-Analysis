@@ -1,6 +1,8 @@
 # 🚗 Car Dashboard - Power BI Project
 This repository contains an interactive Car Dashboard built using Power BI, designed to analyze and visualize key metrics from a dataset containing details about used cars. The dashboard enables users to explore trends, filter by multiple categories, and gain actionable insights into the used car market.
 
+![image](https://github.com/user-attachments/assets/10b2932d-3f59-4431-9b5c-078fb24fc4c8)
+
 # 📊 Dashboard Overview
 The dashboard includes a comprehensive set of visualizations based on the following dataset columns:
 
