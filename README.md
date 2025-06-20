@@ -33,7 +33,6 @@ Some datasets used are sourced from open platforms and may be cleaned or modifie
 
 # 📬 Let's Connect!
 If you're interested in collaborating, feedback, or just want to chat data — feel free to reach out:
-🔗 www.linkedin.com/in/lakshita-c-b46375295
 
 ⭐️ Don’t forget to star this repo if you found it helpful!
 
