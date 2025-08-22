@@ -11,7 +11,7 @@ The primary goal of this project was to explore and visualize the sentiment of t
 
 By combining these datasets, the analysis aims to uncover potential correlations and patterns that could help in understanding market trends and investor behavior.
 
-##Datasets 
+## Datasets 
 The datasets utilized in this analysis are not hosted within this repository due to their file size. Please use the following external link to download the necessary data for replication:
 
 * Kaggle Link for Datasets: [https://www.kaggle.com/datasets/ghostiee11/primetrade-data]
